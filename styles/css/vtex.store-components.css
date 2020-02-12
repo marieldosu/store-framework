@@ -23,10 +23,14 @@
     background-color: #EDCFD1
   }
 
-.searchBarContainer--info-card-home {
+.infoCardContainer {
     max-width:1260px;
     margin: 0 auto;
-    padding: 0px;
+    padding: 0;
+}
+
+.infoCardImage {
+    max-width:1260px 
 }
 
 .infoCardHeadline {
